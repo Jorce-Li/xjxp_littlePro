@@ -1,0 +1,22 @@
+{
+  "pages": [
+    "pages/index/main",
+    "pages/logs/main",
+    "pages/counter/main"
+  ],
+  "usingComponents": {
+    "i-icon": "../../../static/iview/icon/index",
+    "i-button": "../../../static/iview/button/index",
+    "i-checkbox-group": "../../../static/iview/checkbox-group/index",
+    "i-checkbox": "../../../static/iview/checkbox/index",
+    "i-collapse": "../../../static/iview/collapse/index",
+    "i-collapse-item": "../../../static/iview/collapse-item/index",
+    "i-action-sheet": "../../../static/iview/action-sheet/index"
+  },
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  }
+}
